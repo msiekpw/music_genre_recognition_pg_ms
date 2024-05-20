@@ -1,1 +1,2 @@
-# music_genre_recognition_pg_ms
+# Projekt GSN 24L - rozpoznawanie gatunków muzycznych z GTZAN
+Wykonali: Piotr Gryglewski, Michał Siek
